@@ -1,0 +1,1 @@
+# DotNetCore2.0
